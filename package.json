@@ -35,7 +35,7 @@
     "snyk": "^1.324.0"
   },
   "devDependencies": {
-    "atomic-algolia": "0.3.17",
+    "atomic-algolia": "0.3.19",
     "@babel/core": "7.9.6",
     "@babel/preset-env": "7.9.6",
     "axios": "0.19.0",
